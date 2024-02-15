@@ -2,7 +2,7 @@
 title: "Frank Github Two"
 date: "2024-02-15T13:16:25.509Z"
 slug: "frank-github-post"
-image: "Insert Image URL Here"
+domain: nocke.hashnode.dev
 ---
 
 Franks SECOND gihub post.
