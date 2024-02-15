@@ -1,4 +1,5 @@
-# Hashnode-source-from-github-template
+# Howdy, partner
+
 A template with boilerplate structure for Hashnode's Github as source feature
 
 Please note: A **README.md** at the root is always ignored.
