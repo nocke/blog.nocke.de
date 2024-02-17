@@ -1,7 +1,7 @@
 ---
-title: "Frank Github Three"
+title: "Frank Github Three NEU"
 domain: nocke.hashnode.dev
-date: "2024-02-15T13:16:25.509Z"
+date: 2024-01-22
 slug: "frank-github-post-THREE"
 tags: abc,def
 ---
