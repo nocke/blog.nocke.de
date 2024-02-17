@@ -5,7 +5,6 @@ date: Mon Apr 03 2023 08:13:37 GMT+0000 (Coordinated Universal Time)
 datePublished: Mon Apr 03 2023 08:13:37 GMT+0000 (Coordinated Universal Time)
 slug: frank-github-post-five
 tags: yes, no, foo, bar
-publishAs: nocke
 hideFromHashnodeCommunity: yes
 ---
 
